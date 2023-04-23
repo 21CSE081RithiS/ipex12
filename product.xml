@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+    <p>
+        <pid>111</pid>
+        <p_name>Computer</p_name>
+        <p_rate>150000</p_rate>
+        <p_warranty>4 years</p_warranty>
+    </p>
+    
+    <p>
+        <pid>222</pid>
+        <p_name>Speaker</p_name>
+        <p_rate>15000</p_rate>
+        <p_warranty>3 years</p_warranty>
+    </p>
+    
+    <p>
+        <pid>333</pid>
+        <p_name>Headset</p_name>
+        <p_rate>1500</p_rate>
+        <p_warranty>2 years</p_warranty>
+    </p>
+    
+    <p>
+        <pid>444</pid>
+        <p_name>Mobile</p_name>
+        <p_rate>32499</p_rate>
+        <p_warranty>5 years</p_warranty>
+    </p>
+    
+</product>
